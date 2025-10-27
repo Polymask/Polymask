@@ -1,14 +1,5 @@
 
 
-#
-### Installation
-
-1. Clone the repo
-
-2. Install the required dependencies using npm i package.json
-
-3. Run it using npm start
-
 ## License
 This project is licensed under the terms of the GNU General Public License v3.0.
 
